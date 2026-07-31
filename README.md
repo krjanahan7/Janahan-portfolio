@@ -67,7 +67,6 @@ Here is an overview of how my portfolio is organized:
 
 * **GitHub:** [krjanahan7](https://github.com/krjanahan7)
 * **LinkedIn:** [Add your LinkedIn Link Here]
-* **Resume:** Check the [12_Resume](12_Resume/) folder for my latest CV.
 
 ---
 *⭐ Feel free to explore the folders to view individual project code, workflows, and documentation!*
