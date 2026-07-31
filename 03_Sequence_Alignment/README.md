@@ -1,4 +1,4 @@
-# 🧭 03_Sequence Alignment & Mapping
+# 🧭 Sequence Alignment & Mapping
 
 ![Tools](https://img.shields.io/badge/Tools-BWA%20%7C%20Bowtie2%20%7C%20HISAT2%20%7C%20SAMtools-blue)
 ![Language](https://img.shields.io/badge/Language-Bash-orange)
