@@ -66,7 +66,6 @@ Here is an overview of how my portfolio is organized:
 ## 📬 Contact & Links
 
 * **GitHub:** [krjanahan7](https://github.com/krjanahan7)
-* **LinkedIn:** [Add your LinkedIn Link Here]
 * **Email:** [krjanahan7@gmail.com](mailto:krjanahan7@gmail.com)
 * **LinkedIn:** [Janahan KR](https://www.linkedin.com/in/janahan-kr-198790375)
 
