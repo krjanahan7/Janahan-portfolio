@@ -1,4 +1,4 @@
-# 🐧 01_Linux & Bash for Bioinformatics
+# 🐧 Linux & Bash for Bioinformatics
 
 ![Tool](https://img.shields.io/badge/Tools-Linux%20%7C%20Bash%20%7C%20Shell%20Scripting-blue)
 ![Language](https://img.shields.io/badge/Language-Bash%2FShell-orange)
