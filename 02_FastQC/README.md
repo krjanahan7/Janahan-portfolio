@@ -1,4 +1,4 @@
-# 🧬 02_FastQC & Quality Control
+# 🧬 FastQC & Quality Control
 
 ![Tool](https://img.shields.io/badge/Tools-FastQC%20%7C%20MultiQC-blue)
 ![Language](https://img.shields.io/badge/Language-Bash-orange)
