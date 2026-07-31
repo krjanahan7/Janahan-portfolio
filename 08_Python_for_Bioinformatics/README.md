@@ -1,4 +1,4 @@
-# 🐍 08_Python & R Scripts for Bioinformatics
+# 🐍 Python & R Scripts for Bioinformatics
 
 ![Tools](https://img.shields.io/badge/Tools-Biopython%20%7C%20pandas%20%7C%20ggplot2%20%7C%20tidyverse-blue)
 ![Language](https://img.shields.io/badge/Language-Python%20%7C%20R-orange)
