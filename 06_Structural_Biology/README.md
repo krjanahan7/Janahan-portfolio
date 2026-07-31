@@ -1,4 +1,4 @@
-# 🧱 06_Structural Biology & Protein Modelling
+# 🧱 Structural Biology & Protein Modelling
 
 ![Tools](https://img.shields.io/badge/Tools-PyMOL%20%7C%20SWISS--MODEL%20%7C%20AlphaFold%20%7C%20Ramachandran-blue)
 ![Language](https://img.shields.io/badge/Language-Python%20%7C%20PyMOL%20Script-orange)
