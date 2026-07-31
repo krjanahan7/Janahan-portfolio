@@ -1,72 +1,75 @@
 # 🧬 Janahan's Bioinformatics Portfolio
 
-Welcome to my bioinformatics portfolio!
+<div align="center">
 
-This repository showcases projects, pipelines, scripts, and computational workflows developed during my bioinformatics internship and continued through independent learning.
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![R](https://img.shields.io/badge/R-Programming-276DC3?style=flat-square&logo=R&logoColor=white)](https://www.r-project.org/)
+[![Linux/Bash](https://img.shields.io/badge/Linux%2FBash-Terminal-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.gnu.org/software/bash/)
+[![Bioinformatics](https://img.shields.io/badge/Bioinformatics-Computational%2520Biology-success?style=flat-square)]()
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## 🔬 Welcome
+Welcome to my bioinformatics portfolio! This repository showcases projects, pipelines, scripts, and computational workflows developed during my bioinformatics internship and continued through independent learning.
 
-I am a B.Sc. Biochemistry student with a strong interest in Bioinformatics, Computational Biology, Genomics, and Structural Biology.
+---
 
-I enjoy working with biological data, developing reproducible analysis pipelines, and learning new computational tools.
+## 👩‍💻 About Me
+I am a B.Sc. Biochemistry student with a strong interest in Bioinformatics, Computational Biology, Genomics, and Structural Biology. 
+
+I enjoy working with biological data, developing reproducible analysis pipelines, and learning new computational tools to bridge the gap between biology and data science.
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Programming
-- Python
-- Bash
-- Linux
-- R programming
+### Programming & Operating Systems
+* **Python** (Biopython, data analysis libraries)
+* **R Programming** (Statistical analysis and data visualization)
+* **Bash / Shell Scripting**
+* **Linux Environment**
 
-### Bioinformatics
-- Next-Generation Sequencing (NGS)
-- Genome Assembly
-- Genome Annotation
-- Variant Calling
-- Transcriptomics
-- Structural Bioinformatics
-- Molecular Docking
+### Bioinformatics Domains
+* Next-Generation Sequencing (NGS)
+* Genome Assembly & Genome Annotation
+* Variant Calling & Transcriptomics (RNA-Seq)
+* Structural Bioinformatics & Molecular Docking
+* Comparative Genomics & Phylogenetics
 
-### Tools
-- BWA
-- SAMtools
-- GATK
-- SPAdes
-- Prokka
-- Trinity
-- ANNOVAR
-- PyMOL
-- AutoDock Vina
-- RDKit
-- Biopython
+### Key Tools & Software
+* **CLI & Alignment:** BWA, SAMtools
+* **Variant & Assembly:** GATK, SPAdes, Prokka, Trinity, ANNOVAR
+* **Structural Biology:** PyMOL, AutoDock Vina, RDKit, Biopython
 
 ---
 
-## 📂 Portfolio Projects
+## 📁 Repository Structure
 
-This repository will contain:
+Here is an overview of how my portfolio is organized:
 
-- Linux & Bash Scripts
-- NGS Analysis Pipelines
-- Genome Assembly
-- Genome Annotation
-- Variant Calling
-- Transcriptome Assembly
-- Protein Structure Analysis
-- Molecular Docking
-- Python Bioinformatics Scripts
-- RDKit Projects
-
----
-
-## 🎯 Goal
-
-To build reproducible bioinformatics workflows, strengthen computational biology skills, and contribute to biological research using open-source tools.
+* `01_Linux_Bash/` - Command-line operations and automation scripts
+* `02_FastQC/` - Quality control analysis of NGS reads
+* `03_Sequence_Alignment/` - Read mapping and alignment workflows
+* `04_Genome_Assembly/` - De novo and reference-guided assembly
+* `05_Genome_Annotation/` - Identifying genomic features and functional annotation
+* `06_Variant_Calling/` - SNP and indel identification pipelines
+* `07_Transcriptomics/` - RNA-Seq and differential expression analysis
+* `08_Molecular_Docking/` - Protein-ligand interaction studies
+* `09_Python_for_Bioinformatics/` - Custom Python scripts for biological data parsing
+* `10_Bioinformatics_Pipelines/` - End-to-end multi-tool workflows
+* `11_Certificates/` - Credentials and course completions
+* `12_Resume/` - Professional CV and background details
+* `assets/` - Images, diagrams, and visual outputs
 
 ---
 
-Thank you for visiting my portfolio!
+## 📬 Contact & Links
+
+* **GitHub:** [krjanahan7](https://github.com/krjanahan7)
+* **LinkedIn:** [Add your LinkedIn Link Here]
+* **Resume:** Check the [12_Resume](12_Resume/) folder for my latest CV.
+
+---
+*⭐ Feel free to explore the folders to view individual project code, workflows, and documentation!*
