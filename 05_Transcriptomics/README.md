@@ -1,4 +1,4 @@
-# 🔬 05_RNA-Seq & Differential Expression
+# 🔬 RNA-Seq & Differential Expression
 
 ![Tools](https://img.shields.io/badge/Tools-HISAT2%20%7C%20featureCounts%20%7C%20DESeq2-blue)
 ![Language](https://img.shields.io/badge/Language-R%20%7C%20Bash-orange)
