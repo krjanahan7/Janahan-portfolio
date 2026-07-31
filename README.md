@@ -4,7 +4,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![Linux/Bash](https://img.shields.io/badge/Linux%2FBash-Terminal-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.gnu.org/software/bash/)
-[![Bioinformatics](https://img.shields.io/badge/Bioinformatics-Computational%2520Biology-success?style=flat-square)]()
 
 </div>
 
