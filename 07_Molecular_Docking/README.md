@@ -1,4 +1,4 @@
-# 💊 07_Molecular Docking & Drug Discovery
+# 💊 Molecular Docking & Drug Discovery
 
 ![Tools](https://img.shields.io/badge/Tools-AutoDock%20Vina%20%7C%20Open%20Babel%20%7C%20PyMOL-blue)
 ![Language](https://img.shields.io/badge/Language-Bash%20%7C%20Python-orange)
