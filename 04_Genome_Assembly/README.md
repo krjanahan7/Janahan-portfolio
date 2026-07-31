@@ -1,4 +1,4 @@
-# 🧩 07_Genome Assembly & Annotation
+# 🧩 Genome Assembly & Annotation
 
 ![Tools](https://img.shields.io/badge/Tools-SPAdes%20%7C%20QUAST%20%7C%20Prokka%20%7C%20BUSCO-blue)
 ![Language](https://img.shields.io/badge/Language-Bash-orange)
