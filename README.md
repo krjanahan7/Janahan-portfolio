@@ -56,7 +56,7 @@ Here is an overview of how my portfolio is organized:
 * `07_Transcriptomics/` - RNA-Seq and differential expression analysis
 * `08_Molecular_Docking/` - Protein-ligand interaction studies
 * `09_Python_for_Bioinformatics/` - Custom Python scripts for biological data parsing
-* `10_Bioinformatics_Pipelines/` - End-to-end multi-tool workflows
+* `10_Automated_Pipelines/` - End-to-end multi-tool workflows
 * `11_Certificates/` - Credentials and course completions
 * `12_Resume/` - Professional CV and background details
 * `assets/` - Images, diagrams, and visual outputs
